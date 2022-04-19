@@ -3,4 +3,5 @@
 
 int main(){
     printf("Main\n");
+    printf("Unsubscribe\n";
 }
